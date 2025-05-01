@@ -22,3 +22,11 @@ main()
 //findUnique
 //findFirst
 //findMany
+
+// distinct
+// orderBy
+// skip
+
+// where: {
+//   NOT: { email: {startsWith: "sally"}},
+// }
