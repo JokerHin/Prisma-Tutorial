@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "Start": "nodemon script.ts"
+    "devStart": "nodemon script.ts"
   },
   "devDependencies": {
     "@prisma/client": "^6.6.0",
